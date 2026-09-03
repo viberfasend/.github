@@ -1,6 +1,10 @@
 <div align="center">
 
-# viberfasend
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viberfasend/.github/main/logo/wordmark-dark.svg">
+  <img alt="viberfasend" src="https://raw.githubusercontent.com/viberfasend/.github/main/logo/wordmark-light.svg" width="480">
+</picture>
+
 
 **Vibe-coded side projects by [Andreas Sander](https://andi1984.dev).**
 
